@@ -1,0 +1,8 @@
+name = "WorkingGeoMakieCombo"
+uuid = "70fbcbd9-7da7-477c-bfa0-9b4dab6e2093"
+authors = ["Niclas Mattsson <niclas.mattsson@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+GeoMakie = "db073c08-6b98-4ee5-b6a4-5efafb3259c6"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
